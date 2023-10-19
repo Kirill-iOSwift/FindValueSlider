@@ -11,6 +11,7 @@
 		ED4F2C3A2AE14CC300315918 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4F2C392AE14CC300315918 /* ContentView.swift */; };
 		ED4F2C3C2AE14CC400315918 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED4F2C3B2AE14CC400315918 /* Assets.xcassets */; };
 		ED4F2C3F2AE14CC400315918 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED4F2C3E2AE14CC400315918 /* Preview Assets.xcassets */; };
+		ED4F2C462AE1506000315918 /* UISliderRepresintation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4F2C452AE1506000315918 /* UISliderRepresintation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ED4F2C392AE14CC300315918 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ED4F2C3B2AE14CC400315918 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED4F2C3E2AE14CC400315918 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ED4F2C452AE1506000315918 /* UISliderRepresintation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISliderRepresintation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ED4F2C372AE14CC300315918 /* FindValueSliderApp.swift */,
 				ED4F2C392AE14CC300315918 /* ContentView.swift */,
+				ED4F2C452AE1506000315918 /* UISliderRepresintation.swift */,
 				ED4F2C3B2AE14CC400315918 /* Assets.xcassets */,
 				ED4F2C3D2AE14CC400315918 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				ED4F2C3A2AE14CC300315918 /* ContentView.swift in Sources */,
 				ED4F2C382AE14CC300315918 /* FindValueSliderApp.swift in Sources */,
+				ED4F2C462AE1506000315918 /* UISliderRepresintation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
